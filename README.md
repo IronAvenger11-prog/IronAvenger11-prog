@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IronAvenger11-prog(Abhishek R Mathur)
+- 👋 Hi, I’m Abhishek R Mathur
 - 👀 I’m interested in AI, Robotics, Automation 
 - 🌱 I’m currently learning ML, Data Science Basics
 - 💞️ I’m looking to collaborate on the most interesting projects and research
