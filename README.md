@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ML, Data Science Basics
 - 💞️ I’m looking to collaborate on the most interesting projects and research
 - 📫 How to reach me:
-- email id-abhishek.mathur.20063@iitgoa.ac.in
+- email-abhishek.mathur.20063@iitgoa.ac.in
 instagram:https://www.instagram.com/the_abhishek_1195/
 linkedin:https://www.linkedin.com/in/abhishek-raman-mathur-910599209/
 
