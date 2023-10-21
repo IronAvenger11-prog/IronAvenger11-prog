@@ -3,7 +3,6 @@
 - 📫 How to reach me:
 - email- abhishekramanmathur6@gmail.com
 - homepage: www.abhishekramanmathur.com
-- instagram: https://www.instagram.com/the_abhishek_1195/
 - linkedin: https://www.linkedin.com/in/abhishek-raman-mathur-910599209/
 
 <!---
