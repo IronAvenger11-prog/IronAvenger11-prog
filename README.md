@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Abhishek R Mathur
-- 👀 I’m interested in AI, Robotics, Automation 
-- 🌱 I’m currently doing interesting projects in Computer Vision and Reinforcement Learning
-- 💞️ I’m looking to collaborate on the most interesting projects and research
+- 👀 I’m interested in AI, Robotics and to apply them in the real world
 - 📫 How to reach me:
 - email- abhishek.mathur.20063@iitgoa.ac.in
+- homepage: www.abhishekramanmathur.com
 - instagram: https://www.instagram.com/the_abhishek_1195/
 - linkedin: https://www.linkedin.com/in/abhishek-raman-mathur-910599209/
 
